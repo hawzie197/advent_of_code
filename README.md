@@ -1,5 +1,10 @@
 # advent_of_code
 
+*** NOTICE: I have no affiliation with creating any of these questions. All questions were though of, created, and coded by
+the owners of Advent Of Code. To view their website or take part in this 25 day coding challenge, please visit:
+http://adventofcode.com/2016  ***
+
+
 --- Day 1: No Time for a Taxicab ---
 
 Santa's sleigh uses a very high-precision clock to guide its movements, and the clock's oscillator is regulated by stars. Unfortunately, the stars have been stolen... by the Easter Bunny. To save Christmas, Santa needs you to retrieve all fifty stars by December 25th.
