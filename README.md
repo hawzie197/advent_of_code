@@ -2,7 +2,7 @@
 
 *** NOTICE: I have no affiliation with creating any of these questions. All questions were though of, created, and coded by
 the owners of Advent Of Code. To view their website or take part in this 25 day coding challenge, please visit:
-http://adventofcode.com/2016  ***
+http://adventofcode.com/2016 
 
 
 --- Day 1: No Time for a Taxicab ---
