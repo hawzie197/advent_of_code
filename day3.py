@@ -17,7 +17,6 @@ class Triangles:
                 pass
         return count
 
-
     def read_file(self):
         """Reads in the file and formats to appropriate form"""
         num_list = []
@@ -28,7 +27,6 @@ class Triangles:
             line = line.split()
             num_list.append(line)
         return num_list
-
 
 def main():
     T = Triangles()
