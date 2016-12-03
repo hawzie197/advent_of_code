@@ -24,7 +24,6 @@ R2, R2, R2 leaves you 2 blocks due South of your starting position, which is 2 b
 R5, L5, R5, R3 leaves you 12 blocks away.
 How many blocks away is Easter Bunny HQ?
 
-Your puzzle answer was 273.
 ------------------------------------------------------------------------------------------------------------------------------
 
 --- Day 2: Bathroom Security ---
@@ -54,7 +53,6 @@ So, in this example, the bathroom code is 1985.
 
 Your puzzle input is the instructions from the document you found at the front desk. What is the bathroom code?
 
-Your puzzle answer was 97289.
 ------------------------------------------------------------------------------------------------------------------------------
 
 
