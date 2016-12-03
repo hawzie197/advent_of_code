@@ -32,9 +32,7 @@ class Triangles:
 
 def main():
     T = Triangles()
-
     data = T.read_file()
-    #data = ['5', '10', '25']
     print(T.check_if_valid(data))
 
 if __name__ == '__main__':
